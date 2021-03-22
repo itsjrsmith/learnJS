@@ -5,4 +5,4 @@ learning JavaScript
 put lessons into action
 
 # Tech used
-JavaScript
+JavaScript, HTML, CSS
